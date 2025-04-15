@@ -90,7 +90,7 @@ Este projeto apresenta uma análise completa de conjuntos de dados sobre qualida
 ### Execução:
 
 ### Clone o repositório
-- git clone https://github.com/seu-usuario/wine-quality-analysis.git
+- https://github.com/brunosuassuna/Analise-Qualidade-de-Vinhos
 
 ### Importe os notebooks para seu workspace Databricks
 
@@ -124,4 +124,7 @@ Este projeto apresenta uma análise completa de conjuntos de dados sobre qualida
 ### Distribuído sob a licença MIT. Veja LICENSE para mais informações.
 
 ## ✉️ Contato
-**Link do Projeto:** https://github.com/brunosuassuna/Analise-Qualidade-de-Vinhos
+- **Link do Projeto:** https://github.com/brunosuassuna/Analise-Qualidade-de-Vinhos
+- **Email:** brunosuassuna.dev@gmail.com
+- **LinkedIn:** www.linkedin.com/in/bruno-suassuna-698aa7235
+- **Licença:** [MIT](https://opensource.org/license/MIT)
