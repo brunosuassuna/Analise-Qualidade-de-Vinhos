@@ -124,4 +124,4 @@ Este projeto apresenta uma análise completa de conjuntos de dados sobre qualida
 ### Distribuído sob a licença MIT. Veja LICENSE para mais informações.
 
 ## ✉️ Contato
-**Link do Projeto:** https://github.com/seu-usuario/wine-quality-analysis
+**Link do Projeto:** https://github.com/brunosuassuna/Analise-Qualidade-de-Vinhos
