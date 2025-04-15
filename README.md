@@ -121,10 +121,8 @@ Este projeto apresenta uma análise completa de conjuntos de dados sobre qualida
 - Abra um Pull Request
 
 ## 📜 Licença
-### Distribuído sob a licença MIT. Veja LICENSE para mais informações.
+- **Licença:** [MIT](https://opensource.org/license/MIT)
 
 ## ✉️ Contato
-- **Link do Projeto:** https://github.com/brunosuassuna/Analise-Qualidade-de-Vinhos
 - **Email:** brunosuassuna.dev@gmail.com
 - **LinkedIn:** www.linkedin.com/in/bruno-suassuna-698aa7235
-- **Licença:** [MIT](https://opensource.org/license/MIT)
