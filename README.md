@@ -90,7 +90,7 @@ Este projeto apresenta uma análise completa de conjuntos de dados sobre qualida
 ### Execução:
 
 ### Clone o repositório
-- https://github.com/brunosuassuna/Analise-Qualidade-de-Vinhos
+- https://github.com/brunosuassuna/Analise-Qualidade-de-Vinhos.git
 
 ### Importe os notebooks para seu workspace Databricks
 
