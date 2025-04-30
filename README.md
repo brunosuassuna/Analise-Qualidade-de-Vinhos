@@ -66,19 +66,20 @@ Este projeto apresenta uma análise completa de conjuntos de dados sobre qualida
 
 - Acurácia de 78% na categorização (baixa/média/alta qualidade)
 
-## 📂 Estrutura do Repositório
+## 📂 wine-quality-analysis
+```bash
+├── notebooks/                 # Notebooks Databricks
+│   ├── 01_data_ingestion.py   # Ingestão de dados
+│   ├── 02_data_processing.py  # Processamento dos dados
+│   ├── 03_analysis.py         # Análise exploratória
+│   └── 04_modeling.py         # Modelagem preditiva
+├── data/                      # Dados processados
+├── docs/                      # Documentação adicional
+├── images/                    # Visualizações geradas
+├── LICENSE                    # Licença do projeto
+└── README.md                  # Descrição e instruções do repositório
+```
 
- /wine-quality-analysis/
-├── notebooks/                 **Notebooks Databricks**
-- │      ├── 01_data_ingestion.py
--  │     ├── 02_data_processing.py
--  │     ├── 03_analysis.py
--  │     └── 04_modeling.py
-   - ├── data/                     **Dados processados**
--  ├── docs/                      **Documentação adicional**
--  ├── images/                    **Visualizações geradas**
--  ├── LICENSE
--  └── README.md                  **Este arquivo**
 
 ## 🚀 Como Executar
 ### Pré-requisitos:
@@ -90,7 +91,9 @@ Este projeto apresenta uma análise completa de conjuntos de dados sobre qualida
 ### Execução:
 
 ### Clone o repositório
-- https://github.com/brunosuassuna/Analise-Qualidade-de-Vinhos.git
+```bash
+https://github.com/brunosuassuna/Analise-Qualidade-de-Vinhos.git
+```
 
 ### Importe os notebooks para seu workspace Databricks
 
